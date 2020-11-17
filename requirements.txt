@@ -3,3 +3,5 @@ matplotlib
 seaborn
 pandas
 xlrd
+requests
+
