@@ -9,3 +9,4 @@ bokeh
 geopandas
 mapclassify
 fiona
+descartes
