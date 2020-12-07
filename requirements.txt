@@ -5,15 +5,5 @@ pandas
 xlrd
 requests
 openpyxl
-#nbserverproxy
-#serverextension
-#bokeh.io
 bokeh
-#bokeh.layouts
-#bokeh.plotting
-#bokeh.plotting
-#FionaGDAL
-#Rtree
-#Shapely
-#geopandas
-#scipy.stats
+geopandas
